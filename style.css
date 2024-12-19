@@ -1,0 +1,239 @@
+body {
+    width: 1200px;
+    margin: 60px auto;
+}
+
+.bloco1 {
+    padding: 130px 80px;
+    background-image: url("./img/fundoaniversariolisa2024.jpeg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-radius: 20px;
+
+}
+
+h1 {
+    color: rgb(35, 35, 105);
+    font-size: 150px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(15, 21, 73);
+}
+
+.model {
+    margin-bottom: 60px;
+    display:flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+img {
+    width: 400px;
+    transition: transform 2s;
+    border-radius: 30px;
+}
+
+.model-conteudo {
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.model-conteudo p {
+    font-size: 56px;
+    color:rgb(73, 26, 97);
+    font-style: oblique;
+}
+
+.btn {
+    color:blueviolet;
+    font-size: 36px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.lisaniver {
+    text-align: right;
+    font-size: 20;
+    color:mediumslateblue;
+}
+
+.btn a {
+    padding: 20px;
+    background-color: white;
+    text-decoration: none;
+    color: darkmagenta;
+    border-radius: 30px;
+
+    transition: all 0.5s;
+}
+
+.btn a:hover {
+    font-size: 20px;
+}
+
+.botao {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: right;
+}
+
+.bloco2 {
+    padding: 130px 80px;
+    background-image: url("./img/fundo-colorido-com-estrelas.jpeg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: end;
+
+    border-radius: 20px;
+
+}
+
+div.dandy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+div.dandy button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.titulo h1 {
+    color:blueviolet;
+    font-size: 120px;
+    text-align: left;
+    border-radius: 20px;
+}
+
+div.titulo p {
+    font-size: 70px;
+    text-align: center;
+    font-style: oblique;
+    color:cadetblue;
+}
+
+div.dandy2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 30px;;
+}
+
+div.dandy2 button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.dandy3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 30px;;
+}
+
+div.dandy3 button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.dandy4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 30px;;
+}
+
+div.dandy4 button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.dandy5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 30px;;
+}
+
+div.dandy5 button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.dandy6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 30px;;
+}
+
+div.dandy6 button {
+    font-size: 70px;
+    text-align: center;
+    color:aquamarine;
+}
+
+div.dandy7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 30px;;
+}
+
+div.espaco {
+    color:rgb(15, 21, 73);
+    font-size: 20px;
+}
+
+.bloco3 {
+    padding: 130px 80px;
+    background-image: url("./img/fundosite3.jpeg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: end;
+
+    border-radius: 20px;
+
+}
+
+.model3 h1 {
+    color:rgba(55, 52, 114, 0.829)
+}
+
+.btndetona a {
+    padding: 20px;
+    background-color: white;
+    text-decoration: none;
+    color: rgba(63, 56, 147, 0.668);
+    border-radius: 30px;
+
+    transition: all 0.5s;
+}
+
+.btndetona a:hover {
+    font-size: 20px;
+}
